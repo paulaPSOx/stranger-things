@@ -96,7 +96,7 @@ Aqui está um imagem do projeto, mostrando como o carrossel de pôsteres aparece
 ## Links Úteis 🌐
 
 - Visualizar o projeto: [Stranger Things - Carrossel de Pôsteres](https://paulapsox.github.io/stranger-things/)
-- Repositório no GitHub: [seunome/stranger-things-carrossel]((https://github.com/paulaPSOx/stranger-things/tree/main)) 
+- Repositório no GitHub: [seunome/stranger-things-carrossel](https://github.com/paulaPSOx/stranger-things) 
 
 ---
 
